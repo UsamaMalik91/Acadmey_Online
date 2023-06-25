@@ -1,4 +1,5 @@
 import React from 'react';
+import Typed from 'react-typed'
 import {
   FaDribbbleSquare,
   FaFacebookSquare,
@@ -40,7 +41,7 @@ const Footerr = () => {
             <li className='py-2 text-sm'>Pricing</li>
             <li className='py-2 text-sm'>Documentation</li>
             <li className='py-2 text-sm'>Guides</li>
-            <li className='py-2 text-sm'>Rules</li>
+            <li className='py-2 text-sm'>Rules & Regulation</li>
         </ul>
     </div>
     <div>
@@ -48,7 +49,7 @@ const Footerr = () => {
         <ul>
             <li className='py-2 text-sm'>Members</li>
             <li className='py-2 text-sm'>Students</li>
-            <li className='py-2 text-sm'>Plans</li>
+            <li className='py-2 text-sm'>Achievements</li>
             <li className='py-2 text-sm'>Careers</li>
         </ul>
     </div>
