@@ -15,7 +15,7 @@ const Footerr = () => {
         <h1 className='w-full text-3xl font-bold text-[#00df9a]'>ACADEMY
         <Typed  strings={['...']} typeSpeed={100} backSpeed={150} loop showCursor='none'/>
         </h1>
-        <Typed strings={['Online_Study, Online_Teaching , Online_Evaluation']} typeSpeed={800} backSpeed={650} loop  showCursor='none'/>
+        <Typed strings={['Online_Study, Online_Teaching , Online_Evaluation']} typeSpeed={170} backSpeed={200} loop  showCursor='none'/>
         <p className='py-4'>Elevate Your Education with Teaching Excellence: Dynamic Courses for Classes 9, 10, 11, and 12 - Empowering Students to Excel and Achieve Success</p>
         <div className='flex justify-between md:w-[75%] my-6'>
             <FaFacebookSquare size={30} />
